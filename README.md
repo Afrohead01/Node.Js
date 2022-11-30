@@ -1,1 +1,2 @@
 # Node.Js
+Buffering is the practice of pre-loading segments of data when streaming video content. Streaming — the continuous transmission of audio or video files from a server to a client — is the process that makes watching videos online possible.
