@@ -1,0 +1,24 @@
+{
+  "name": "node.js",
+  "version": "1.0.0",
+  "description": "Buffering is the practice of pre-loading segments of data when streaming video content. Streaming — the continuous transmission of audio or video files from a server to a client — is the process that makes watching videos online possible.",
+  "main": "app2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app2.js",
+    "start-server": "node app2.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Afrohead01/Node.Js.git"
+  },
+  "author": "subham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Afrohead01/Node.Js/issues"
+  },
+  "homepage": "https://github.com/Afrohead01/Node.Js#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
